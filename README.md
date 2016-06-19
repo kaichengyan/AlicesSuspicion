@@ -1,2 +1,2 @@
 # AlicesSuspicion
-Alice's Suspicion, a text-based game made by twine. 
+Alice's Suspicion, a text-based game made with twine. 
